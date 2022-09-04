@@ -17,16 +17,9 @@ value : <quran-channel-id>
 ```
 npm i discord.js@12.5.3 express discord-ytdl-core @discordjs/opus ffmpeg-static opusscript ytdl-core 
 ``` 
-* Watting to Install All Packages And Click To Run Button
-### You Get Proplem? 
-[YouTube Tutorial](https://youtu.be/pRQ9b3AAQbc)
 
-### Support 🔰
-Discord Acount : `!ZombieX#0001`
-[Server Discord](https://discord.gg/crJx77aEsq) - [YouTube Channel](https://youtube.com/channel/UC0A5FZItuziL5iWIinQeKcQ)
 
-### Made By `ZombieX` ✨
-* All Copyrights Go To ZombieX 
+### Made By `Nishh` ✨ 
 
 
 
