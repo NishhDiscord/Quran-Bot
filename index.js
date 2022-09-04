@@ -40,4 +40,4 @@ Quran()
     
 });
 
-client.login(process.env.token) 
+client.login(Nzk2MTAzNDM5MjgxMTYwMjEy.GCWlrE.3P3x0BsMThnivH5Z-mHBPdhUYDsCAAzH04jRQg) 
