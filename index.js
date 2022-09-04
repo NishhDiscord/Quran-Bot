@@ -35,9 +35,9 @@ console.log(`Quran Bot is Started`)
 console.log(`[NAME] ${client.user.tag}`)
 console.log(`[ID] ${client.user.id}`)
 console.log(`[GUILDS] ${client.guilds.cache.size}`)
-console.log(`( All Copyrights Go To ZombieX )`)
+console.log(`( All Copyrights Go To Nishh )`)
 Quran()
     
 });
 
-client.login(process.env.token) 
+client.login(Nzk2MTAzNDM5MjgxMTYwMjEy.GCWlrE.3P3x0BsMThnivH5Z-mHBPdhUYDsCAAzH04jRQg) 
